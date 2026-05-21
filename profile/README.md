@@ -12,3 +12,6 @@ Cet espace regroupe les dépôts open source de la R&D d'EDF. / This organizatio
 <br><br>
 ## Durée de fonctionnement / Operating time
 [TransfoTron-Transformer-Design-Data](https://github.com/EDF-Lab/TransfoTron-Transformer-Design-Data)
+<br><br>
+## Intelligence artificielle / Artificial intelligence
+[MoTM](https://github.com/EDF-Lab/MoTM) 
