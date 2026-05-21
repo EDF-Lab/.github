@@ -1,11 +1,10 @@
 # EDF Lab
 Cet espace regroupe les dépôts open source de la R&D d'EDF. / This organization contains EDF's R&D open-source repositories.
 
-## Efficacité energétique et usages bas carbone / Energy efficiency and low-carbon applications
+## Electrification, décarbonatation et efficacité énergétique / Electrification, decarbonization, and energy efficiency
 [BuildSysPro](https://github.com/EDF-Lab/BuildSysPro) 
 <br><br>
-
-## Telecom et internet des objets / Telecom & IoT
+## Territoires et mobilités / Territories and mobility
 [eVDriveFlow](https://github.com/EDF-Lab/eVDriveFlow)
 <br><br>
 ## Réseaux de distribution / Distribution networks
