@@ -15,4 +15,5 @@ Cet espace regroupe les dépôts open source de la R&D d'EDF. / This organizatio
 <br><br>
 ## Intelligence artificielle / Artificial intelligence
 [MoTM](https://github.com/EDF-Lab/MoTM) <br>
-[tam](https://github.com/EDF-Lab/tam) 
+[tam](https://github.com/EDF-Lab/tam) <br>
+[ts-icl](https://github.com/EDF-Lab/ts-icl) <br>
