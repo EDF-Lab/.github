@@ -18,3 +18,5 @@ Cet espace regroupe les dépôts open source de la R&D d'EDF. / This organizatio
 [tam](https://github.com/EDF-Lab/tam) <br>
 [ts-icl](https://github.com/EDF-Lab/ts-icl) <br>
 [NILMFormer](https://github.com/EDF-Lab/NILMFormer) <br>
+[TransApp](https://github.com/EDF-Lab/TransApp) <br>
+[CamAL](https://github.com/EDF-Lab/CamAL) <br>
