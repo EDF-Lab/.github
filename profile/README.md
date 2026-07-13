@@ -19,4 +19,9 @@ Cet espace regroupe les dépôts open source de la R&D d'EDF. / This organizatio
 [ts-icl](https://github.com/EDF-Lab/ts-icl) <br>
 [NILMFormer](https://github.com/EDF-Lab/NILMFormer) <br>
 [TransApp](https://github.com/EDF-Lab/TransApp) <br>
-[CamAL](https://github.com/EDF-Lab/CamAL) <br>
+[CamAL](https://github.com/EDF-Lab/CamAL) 
+<br><br>
+## Simulation numérique / Numerical simulation
+[Sim-Diasca](https://github.com/EDF-Lab/Sim-Diasca)
+<br><br>
+
