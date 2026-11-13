@@ -25,6 +25,6 @@ Cet espace regroupe les dépôts open source de la R&D d'EDF. / This organizatio
 [Sim-Diasca](https://github.com/EDF-Lab/Sim-Diasca)
 <br><br>
 ## Optimisation / Optimization
-[SMS++](https://gitlab.com/smspp/smspp-project) <br>
-[StOpt](https://gitlab.com/stochastic-control/StOpt)
+[SMS++](https://gitlab.com/smspp/smspp-project) : Le projet SMSPP (SMS++) est soutenu par EDF via son mécénat dans le programme [PGMO](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/). SMS++ est un ensemble de classes C++ conçu pour offrir un système permettant de modéliser des modèles mathématiques complexes à structure par blocs (notamment, mais pas exclusivement, des problèmes d'optimisation à objectif réel unique) et de les résoudre au moyen d'algorithmes sophistiqués exploitant cette structure (en particulier, mais pas exclusivement, des approches par décomposition et des méthodes de points intérieurs structurées).<br>
+[StOpt](https://gitlab.com/stochastic-control/StOpt) : La librairie StOpt pour la résolution de problèmes d'optimisation stochastique rencontrés dans l'industrie ou la finance bénéficie du soutien d'EDF R&D au travers du laboratoire commun FiME.
 <br><br>
