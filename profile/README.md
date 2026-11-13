@@ -24,4 +24,7 @@ Cet espace regroupe les dépôts open source de la R&D d'EDF. / This organizatio
 ## Simulation numérique / Numerical simulation
 [Sim-Diasca](https://github.com/EDF-Lab/Sim-Diasca)
 <br><br>
-
+## Optimisation / Optimization
+[SMS++](https://gitlab.com/smspp/smspp-project) <br>
+[StOpt](https://gitlab.com/stochastic-control/StOpt)
+<br><br>
